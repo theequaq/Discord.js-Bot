@@ -1,0 +1,16 @@
+{
+  "name": "testbot",
+  "version": "0.0.1",
+  "description": "This bot has been created by BlackDeadSkulll for free on github",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "install": "npm i discord.js fs"
+  },
+  "author": "BlackDeadSkulll",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fs": "0.0.1-security"
+  }
+}

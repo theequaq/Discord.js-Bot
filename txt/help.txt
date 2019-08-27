@@ -1,0 +1,2 @@
+__**help [command]**__ - Shows a list of commands or a specific command!
+__**ping**__ - shows the bots Ping!
